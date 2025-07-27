@@ -17,3 +17,4 @@ export function simplifyPath(path) {
     simplified.push(path[path.length - 1]);
     return simplified;
 }
+
